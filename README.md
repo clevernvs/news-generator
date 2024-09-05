@@ -5,18 +5,20 @@
 ![Python](https://img.shields.io/badge/-Python-1e272e?style=for-the-badge&logo=python)&nbsp;
 </div>
 
-<h1> Descrição: </h1>
+<h2> Descrição: </h2>
 <p>
-Gerador de notícias.
+Aplicação que gera notícias passando como parâmetro uma lista de fatos.
+
+O tamanho, o tom e o estilo de escrita também são parâmetros para a construção da notícia direcionando ao publico-alvo desejado.
 </p>
 
-<h1> Projeto: </h1>
+<h2> Projeto: </h2>
 <p>
-- Integração com a API do OpenAI 
+- O projeto faz integração com a API do OpenAI para ChatGPT. 
 </p>
 
 
-<h1> Como utilizar o projeto: </h1>
+<h2> Como utilizar: </h2>
 <p>
 Instalando as dependências
 
